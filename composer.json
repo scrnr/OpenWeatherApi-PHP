@@ -1,0 +1,21 @@
+{
+    "name": "scrnr/weather",
+    "description": "OpenWeatherApi application in PHP",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "lib-curl": "^7.68"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scrnr\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei",
+            "email": "130318174+scrnr@users.noreply.github.com"
+        }
+    ]
+}
