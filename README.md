@@ -44,6 +44,8 @@ This app offers the following features:
 
 This app requires PHP 8.0 or later and the cURL extension to be installed on your web server.
 
+## Author
+👤 GitHub: [scrnr](https://github.com/scrnr)
 
 ## License
 
