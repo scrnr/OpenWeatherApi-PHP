@@ -8,7 +8,20 @@
 
 <br>
 
-This repository written in PHP that allows you to check the weather for a particular location using the OpenWeatherMap API 2.5. The app can determine your location by IP address and show the weather information, or you can enter the name of any city yourself.
+## Table Of Contects
+
+* [Description](#description)
+* [Installation](#installation)
+* [How to use](#how-to-use)
+* [Example](#for-example)
+* [Features](#features)
+* [Requirements](#requirements)
+* [Author](#author)
+* [License](#license)
+
+## Description
+
+This repository written in PHP that allows you to check the weather for a particular location using the OpenWeatherMap API 2.5. The app can determine your location by IP address and show the weather information or you can enter the name of any city.
 
 ## Installation
 
@@ -20,7 +33,7 @@ You can install the library using [Composer](https://getcomposer.org/). Simply a
 }
 ```
 
-Or you can used the **command**:
+Or you can use this **command**:
 
 ```bash
 composer require scrnr/weather
