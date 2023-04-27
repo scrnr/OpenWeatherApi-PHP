@@ -1,5 +1,13 @@
 # OpenWeatherMap API Application in PHP
 
+<div>
+    <img src='https://img.shields.io/packagist/dependency-v/scrnr/weather/php?logo=php&style=plastic' alt='PHP Version'>
+    <img src='https://img.shields.io/packagist/v/scrnr/weather?logo=packagist&logoColor=white&style=plastic' alt='Packagist Version'>
+    <img src='https://img.shields.io/packagist/l/scrnr/weather?label=LICENSE&style=plastic' alt='LICENSE'>
+</div>
+
+<br>
+
 This repository written in PHP that allows you to check the weather for a particular location using the OpenWeatherMap API 2.5. The app can determine your location by IP address and show the weather information, or you can enter the name of any city yourself.
 
 ## Installation
