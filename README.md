@@ -1,8 +1,8 @@
 # OpenWeatherMap API Application in PHP
 
 <div>
-    <img src='https://img.shields.io/packagist/dependency-v/scrnr/weather/php?logo=php&style=plastic' alt='PHP Version'>
-    <img src='https://img.shields.io/packagist/v/scrnr/weather?logo=packagist&logoColor=white&style=plastic' alt='Packagist Version'>
+    <img src='https://img.shields.io/packagist/dependency-v/scrnr/weather/php?label=PHP&logo=php&style=plastic&color=orange' alt='PHP Version'>
+    <img src='https://img.shields.io/packagist/v/scrnr/weather?label=Packagist&logo=packagist&logoColor=white&style=plastic' alt='Packagist Version'>
     <img src='https://img.shields.io/packagist/l/scrnr/weather?label=LICENSE&style=plastic' alt='LICENSE'>
 </div>
 
